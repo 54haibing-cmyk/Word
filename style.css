@@ -1,3 +1,0 @@
-body{font-family:Arial;text-align:center;background:#101820;color:#fff}
-#board{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;max-width:700px;margin:auto}
-.card{padding:20px;background:#223;border-radius:10px;cursor:pointer}
