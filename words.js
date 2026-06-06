@@ -1,0 +1,1 @@
+const WORDS=[['Apple','苹果'],['Dog','狗'],['Book','书'],['Water','水']];
