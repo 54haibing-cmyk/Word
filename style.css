@@ -1,0 +1,6 @@
+body{font-family:sans-serif;text-align:center;background:#f4f7ff}
+#board{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:500px;margin:20px auto}
+.card{background:#fff;padding:20px;border-radius:12px;box-shadow:0 2px 8px #ccc;cursor:pointer}
+.selected{background:#ffe08a}
+.matched{background:#6fdc8c;pointer-events:none;opacity:.6}
+.hud{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
